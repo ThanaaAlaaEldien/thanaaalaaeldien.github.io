@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fur
+title: Thondoq
 url: "http://thanaaalaaeldien.github.io/"
 baseurl:
 google_analytics_key:
@@ -13,7 +13,7 @@ snipcart_currency: "usd"
 logo: /siteicon.png
 description: Fur t-shirt store
 author:
-  name: fur
+  name: Thanaa Alaa-Eldien
   email: fur@example.com
   twitter: fur # twitter username without the @ symbol
   phone: "+1 23456789"
