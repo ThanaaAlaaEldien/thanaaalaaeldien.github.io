@@ -1,7 +1,7 @@
 ---
-name:
+name: Thondoq Bondoq
 garment_type: top
-price:
+price: 50
 sku:
 description:
 sizes:
