@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Thondoq
-url: "http://thanaaalaaeldien.github.io/"
+title: Tulip
+url: "https://tulipcrochet.github.io/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -28,7 +28,7 @@ timezone: Etc/UTC
 
 collections:
   staff_members:
-    output: false
+    output: true
   products:
     output: true
 
