@@ -1,6 +1,6 @@
 ---
 name:"Omar Shehata"
-position:"CEO:
+position:"CEO"
 image_path:
 twitter:
 blurb:
